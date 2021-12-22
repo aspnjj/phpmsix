@@ -48,7 +48,7 @@
     
     echo "<td style ='bg color:#AD8E6'><center>";
     echo $val->total_death;
-    echo "</center></td>;
+    echo "</center></td>";
     echo "</tr>";
   }
   echo "</table></center><p>"; 
