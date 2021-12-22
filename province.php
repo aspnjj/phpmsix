@@ -48,6 +48,7 @@
     echo "<td bgcolor='#E9967A'>";
     echo $val->total_death;
     echo "</td>";
+    echo "</tr>";
   }
   echo "</table><br>"; 
 
