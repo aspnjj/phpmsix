@@ -22,7 +22,7 @@
     echo ($key+1);
     echo "</center></td>";
     
-    echo "<td style ='background-color:#4E8975'><center>";
+    echo "<td style ='background-color:#7FFFD4'><center>";
     echo $val->province;
     echo "</center></td>";
     
@@ -30,7 +30,7 @@
     echo $val->new_case;
     echo "</center></td>";
     
-    echo "<td style ='background-color:#4E8975'><center>";
+    echo "<td style ='background-color:#7FFFD4'><center>";
     echo $val->total_case;
     echo "</center></td>";
     
@@ -38,7 +38,7 @@
     echo $val->new_case_excludeabroad;
     echo "</center></td>";
     
-    echo "<td style ='background-color:#4E8975'><center>";
+    echo "<td style ='background-color:#7FFFD4'><center>";
     echo $val->total_case_excludeabroad;
     echo "</center></td>";
     
@@ -46,7 +46,7 @@
     echo $val->new_death;
     echo "</center></td>";
     
-    echo "<td style ='background-color:#4E8975'><center>";
+    echo "<td style ='background-color:#7FFFD4'><center>";
     echo $val->total_death;
     echo "</center></td>";
     echo "</tr>";
