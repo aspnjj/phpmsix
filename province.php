@@ -22,7 +22,7 @@
     echo ($key+1);
     echo "</center></td>";
     
-    echo "<td style ='background-color:#93FFE8'><center>";
+    echo "<td style ='background-color:#7FFFD4'><center>";
     echo $val->province;
     echo "</center></td>";
     
