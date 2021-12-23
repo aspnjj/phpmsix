@@ -4,7 +4,7 @@
   $data = json_decode($json);
   
   echo "<p><center><font color='#3A3B3C'><h2>รายงานสถานการณ์โควิด 19 แยกจังหวัด</h2></center></p>";
-  echo "<body style = 'background-color:#78C7C7'>";
+  echo "<body style = 'background-color:#AFEEEE'>";
   echo "<p><center><table border='1'>";
   echo "<tr>
         <td style ='background-color:#306754'><font color='E5E4E2'><b>ลำดับ</b></font></center></td>
