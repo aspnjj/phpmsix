@@ -7,14 +7,14 @@
   echo "<body style = 'background-color:#87AFC7'>";
   echo "<p><center><table border='1'>";
   echo "<tr>
-        <td style ='background-color:#033E3E'><font color='E5E4E2'><b>ลำดับ</b></font></center></td>
-        <td style ='background-color:#033E3E'><font color='E5E4E2'><b>จังหวัด</b></font></center></td>
-        <td style ='background-color:#033E3E'><font color='E5E4E2'><b>ผู้ป่วยใหม่</b></font></center></td>
-        <td style ='background-color:#033E3E'><font color='E5E4E2'><b>ผู้ป่วยรวม</b></font></center></td>
-        <td style ='background-color:#033E3E'><font color='E5E4E2'><b>ผู้ป่วยในประเทศ</b></font></center></td>
-        <td style ='background-color:#033E3E'><font color='E5E4E2'><b>ผู้ป่วยรวมในประเทศ</b></font></center></td>
-        <td style ='background-color:#033E3E'><font color='E5E4E2'><b>ผู้เสียชีวิตใหม่</b></font></center></td>
-        <td style ='background-color:#033E3E'><font color='E5E4E2'><b>ผู้เสียชีวิตรวม</b></font></center></td></tr>";
+        <td style ='background-color:#306754'><font color='E5E4E2'><b>ลำดับ</b></font></center></td>
+        <td style ='background-color:#306754'><font color='E5E4E2'><b>จังหวัด</b></font></center></td>
+        <td style ='background-color:#306754'><font color='E5E4E2'><b>ผู้ป่วยใหม่</b></font></center></td>
+        <td style ='background-color:#306754'><font color='E5E4E2'><b>ผู้ป่วยรวม</b></font></center></td>
+        <td style ='background-color:#306754'><font color='E5E4E2'><b>ผู้ป่วยในประเทศ</b></font></center></td>
+        <td style ='background-color:#306754'><font color='E5E4E2'><b>ผู้ป่วยรวมในประเทศ</b></font></center></td>
+        <td style ='background-color:#306754'><font color='E5E4E2'><b>ผู้เสียชีวิตใหม่</b></font></center></td>
+        <td style ='background-color:#306754'><font color='E5E4E2'><b>ผู้เสียชีวิตรวม</b></font></center></td></tr>";
  
   foreach($data as $key=>$val){
     echo "<tr>";
