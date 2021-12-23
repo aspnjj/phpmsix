@@ -55,5 +55,5 @@
 
   echo "<br>";
   echo "<center><font color='#3A3B3C'><p><b>วันที่อัปเดต</b></p></center>";
-  echo "<p><center>". $val->xn_date."</center></p>";
+  echo "<p><center>". $val->txn_date."</center></p>";
 ?>
